@@ -1,7 +1,9 @@
-import React from 'react'
-
-export const pageExperience = () => {
-  return (
-    <div>pageExperience</div>
-  )
+export const PageExperience = () => {
+    return (
+        <div>
+            <section>
+                {/* xp en kh */}
+            </section>
+        </div>
+    )
 }
