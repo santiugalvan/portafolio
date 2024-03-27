@@ -1,0 +1,7 @@
+PAGES:
+* Main
+* Educacion
+* Experiencia
+* Proyectos
+
+* Inglés, Español y Portugués
